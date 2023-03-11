@@ -1,3 +1,3 @@
 # ENTR-451 Homework #4
 
-Full instructions at https://entr451.com/homework-4/
+Heroku APP URL: https://entr451-diyuan.herokuapp.com/
