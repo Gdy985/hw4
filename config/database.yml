@@ -22,4 +22,7 @@ test:
 
 production:
   <<: *default
-  database: db/production.sqlite3
+  adapter: postgresql
+  database: entr451-diyuan_production
+  username: entr451-diyuan
+  password: <%= ENV["ENTR451-DIYUAN_DATABASE_PASSWORD"] %>
